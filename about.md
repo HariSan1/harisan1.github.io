@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! I am a student and ongoing practitioner of Data Science / Machine Learning (ML) / Artificial Intelligence (AI).  Fascinated by the interacation between technology, humanity and the future.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Let's go Yankees/Rangers(Hockey)/Giants :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hari.santanam@gmail.com](mailto:hari.santanam@gmail.com)
