@@ -6,8 +6,10 @@ permalink: /blog/
 
 ### Blog and Publication links
 [My Blog is at] (https://medium.com>Medium.com)
-[I also have a personal blog at Blog ](http://business-it-knowledge.blogspot.com/)
 
+[I also have a personal blog at Blogspot ](http://business-it-knowledge.blogspot.com/)
+
+### Links to some of my articles
 [Value Proposition of AI for IT](https://medium.com/@hari.santanam/value-proposition-of-ai-for-it-1c8903c0ec25?source=search_post)
 
 [Using Keras to predict fashion dataset in machine learning](https://medium.com/@hari.santanam/using-keras-to-predict-fashion-dataset-and-see-images-used-by-machine-learning-5f4a889fb1b0)
