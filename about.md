@@ -8,7 +8,7 @@ Hey there! I am a student and ongoing practitioner of Data Science / Machine Lea
 
 ### More Information
 
-Let's go Yankees/Rangers(Hockey)/Giants :)
+Let's go Yankees/Rangers/Giants :)
 
 ### Contact me
 
