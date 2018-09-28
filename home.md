@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /home/
 ---
-# Welcome to my Github web sit
+## Welcome to my Github web site
 ## I am interested in Machine Learning, Artificial Intelligence and Data Science.  I am learning and also a practitioner.  Feel free to browse
 ## my site and articles. Thanks for visiting!
 
