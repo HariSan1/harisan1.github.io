@@ -7,7 +7,7 @@ permalink: /cv/
 CV
 ### More Information
 
-Student of AI/ML/DS
+Student of AI/ML/Data Science
 
 ### Contact me
 
