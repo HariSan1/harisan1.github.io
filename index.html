@@ -1,18 +1,31 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hari Santanam</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Hank Quinlan!</h1>
+				    <p>Hey there! I am a student and ongoing practitioner of Data Science / Machine Learning (ML) / Artificial Intelligence (AI). Fascinated by the interacation between technology, humanity and the future.
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+ <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:hari.santanam@gmail.com">email</a></li>
+        		<li><a href="https://github.com/harisan1">github.com/hankquinlan</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
+4
