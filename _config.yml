@@ -18,17 +18,15 @@ avatar: https://github.com/HariSan1/harisan1.github.io/includes/0.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hari.santanam@gmail.com
   facebook:
   flickr:
   github: harisan1
   instagram:
-  linkedin:
-  pinterest:
+  linkedin: https://www.linkedin.com/in/harisantanam/  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: "https://stackexchange.com/users/8418232/h-san"
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
