@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 ### Blog and Publication links
-[My Blog is at] (https://medium.com>Medium.com)
+[My Blog is at Medium.com](https://medium.com)
 
 [I also have a personal blog at Blogspot ](http://business-it-knowledge.blogspot.com/)
 
