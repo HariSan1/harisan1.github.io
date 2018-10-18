@@ -9,7 +9,7 @@ permalink: /home/
 
 
 ### Blog and Publication links
-[My Blog is at Medium.com](https://medium.com)
+[My Blog is at Medium.com](https://medium.com/@hari.santanam)
 
 [I also have a personal blog at Blogspot ](http://business-it-knowledge.blogspot.com/)
 
