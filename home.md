@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: home
 permalink: /home/
 ---
 ### Welcome to my Github web site
